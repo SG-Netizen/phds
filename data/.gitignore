@@ -1,0 +1,14 @@
+# 忽略 SQLite 数据库文件
+*.db
+*.db-journal
+*.db-wal
+
+# 忽略撤销存储数据库
+revocations.db*
+
+# 忽略敏感密钥文件
+*.pem
+*.key
+
+# 但保留目录结构
+!.gitignore

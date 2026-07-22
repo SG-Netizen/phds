@@ -1,0 +1,30 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Tests & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Demo generated data (keys, logs, encrypted files)
+demo/.phds_*/
+
+# Database
+data/*.db
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+fastapi>=0.110.0
+uvicorn>=0.27.0
+cryptography>=42.0.0
+gmssl>=3.2.2
+pyjwt>=2.8.0
+pydantic>=2.6.0
+mnemonic>=0.21
+sqlalchemy>=2.0.0
+pydantic-settings>=2.0.0
