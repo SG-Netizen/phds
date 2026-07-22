@@ -4,7 +4,7 @@
 > 让每个人真正拥有自己的健康数据
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-green.svg)]()
+[![Python](https://img.shields.io/badge/python-3.10%2B-green.svg)](https://www.python.org/)
 
 ---
 
