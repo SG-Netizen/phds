@@ -33,7 +33,7 @@
 ### 1. 克隆项目并安装依赖
 
 ```bash
-git clone <repo-url> phds
+git clone https://github.com/SG-Netizen/phds.git
 cd phds
 pip install -r requirements.txt
 ```

@@ -43,7 +43,7 @@ PHDS 是一套**去中心化**的个人健康数据主权协议及其开源 SDK 
 
 ```bash
 # 克隆项目
-git clone <repo-url> phds
+git clone https://github.com/SG-Netizen/phds.git
 cd phds
 
 # 安装依赖
@@ -160,7 +160,7 @@ phds/
 │   ├── __init__.py
 │   ├── core/
 │   │   ├── __init__.py
-│   │   ├── keys.py              # Ed25519 + SM2 + BIP39
+│   │   ├── keys.py              # Ed25519 + SM2 + PBKDF2
 │   │   ├── crypto.py            # AES-256-GCM + ECIES
 │   │   ├── auth.py              # JWT 授权 + 撤销 + 日志
 │   │   └── chain.py             # 链上存证（轻量 PoW）
